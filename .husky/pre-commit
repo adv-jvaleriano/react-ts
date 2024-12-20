@@ -1,1 +1,1 @@
-echo 'cadena' && exit 1
+npm test
